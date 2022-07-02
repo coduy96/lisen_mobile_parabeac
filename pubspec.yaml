@@ -1,0 +1,91 @@
+name: lisen_mobileapp
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  dashbook: ^0.1.6
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/lisen_mobileapp/assets/images/circle.svg
+    - packages/lisen_mobileapp/assets/images/dot.svg
+    - packages/lisen_mobileapp/assets/images/logosgoogle.svg
+    - packages/lisen_mobileapp/assets/images/logosfacebook.svg
+    - packages/lisen_mobileapp/assets/images/logostwitter.svg
+    - packages/lisen_mobileapp/assets/images/ellipse16stroke.svg
+    - packages/lisen_mobileapp/assets/images/ellipse17.svg
+    - packages/lisen_mobileapp/assets/images/illustration.png
+    - packages/lisen_mobileapp/assets/images/logosmall.png
+    - packages/lisen_mobileapp/assets/images/setting.svg
+    - packages/lisen_mobileapp/assets/images/imageplaceholder1.png
+    - packages/lisen_mobileapp/assets/images/imageplaceholder2.png
+    - packages/lisen_mobileapp/assets/images/vector.svg
+    - packages/lisen_mobileapp/assets/images/home.svg
+    - packages/lisen_mobileapp/assets/images/search.png
+    - packages/lisen_mobileapp/assets/images/document.png
+    - packages/lisen_mobileapp/assets/images/setting.png
+    - packages/lisen_mobileapp/assets/images/dot.png
+    - packages/lisen_mobileapp/assets/images/upload.svg
+    - packages/lisen_mobileapp/assets/images/arrowrightcircle.svg
+    - packages/lisen_mobileapp/assets/images/play.svg
+    - packages/lisen_mobileapp/assets/images/arrowleftcircle.svg
+    - packages/lisen_mobileapp/assets/images/volumeup.svg
+    - packages/lisen_mobileapp/assets/images/bookmark.svg
+    - packages/lisen_mobileapp/assets/images/paper.svg
+    - packages/lisen_mobileapp/assets/images/timesquare.svg
+    - packages/lisen_mobileapp/assets/images/arrowdownsquare.svg
+    - packages/lisen_mobileapp/assets/images/imagecover.png
+    - packages/lisen_mobileapp/assets/images/bookmark.png
+    - packages/lisen_mobileapp/assets/images/document.svg
+    - packages/lisen_mobileapp/assets/images/dot1.png
+    - packages/lisen_mobileapp/assets/images/dot2.png
+    - packages/lisen_mobileapp/assets/images/dot3.png
+    - packages/lisen_mobileapp/assets/images/play.png
+    - packages/lisen_mobileapp/assets/images/loading.svg
+    - packages/lisen_mobileapp/assets/images/line.svg
+    - packages/lisen_mobileapp/assets/images/vector2.svg
+    - packages/lisen_mobileapp/assets/images/activity.svg
+    - packages/lisen_mobileapp/assets/images/home.png
+    - packages/lisen_mobileapp/assets/images/search.svg
+    - packages/lisen_mobileapp/assets/images/arrowleft2.svg
+    - packages/lisen_mobileapp/assets/images/edit.svg
+    - packages/lisen_mobileapp/assets/images/vector1.svg
+    - packages/lisen_mobileapp/assets/images/vector3.svg
+    - packages/lisen_mobileapp/assets/images/vector4.svg
+    - packages/lisen_mobileapp/assets/images/vector5.svg
+    - packages/lisen_mobileapp/assets/images/vector6.svg
+    - packages/lisen_mobileapp/assets/images/ellipse.png
+    - packages/lisen_mobileapp/assets/images/girl.png
+    - packages/lisen_mobileapp/assets/images/ticksquare.svg
+    - packages/lisen_mobileapp/assets/images/ticksquare.png
+    - packages/lisen_mobileapp/assets/images/ellipse25.png
+    - packages/lisen_mobileapp/assets/images/divider.svg
+    - packages/lisen_mobileapp/assets/images/group6859.svg
+    - packages/lisen_mobileapp/assets/images/logolisen.svg
+    - packages/lisen_mobileapp/assets/images/vector42.svg
+    - packages/lisen_mobileapp/assets/images/vector43.svg
+    - packages/lisen_mobileapp/assets/images/vector49.svg
+    - packages/lisen_mobileapp/assets/images/vector50.svg
+    - packages/lisen_mobileapp/assets/images/vector51.svg
+    - packages/lisen_mobileapp/assets/images/group6870.svg
+    - packages/lisen_mobileapp/assets/images/rectangle142.svg
+    - packages/lisen_mobileapp/assets/images/vector39.svg
+    - packages/lisen_mobileapp/assets/images/vector40.svg
+    - packages/lisen_mobileapp/assets/images/vector41.svg
+    - packages/lisen_mobileapp/assets/images/vector44.svg
+    - packages/lisen_mobileapp/assets/images/vector45.svg
+    - packages/lisen_mobileapp/assets/images/vector46.svg
+    - packages/lisen_mobileapp/assets/images/vector47.svg
+    - packages/lisen_mobileapp/assets/images/vector48.svg
+    - packages/lisen_mobileapp/assets/images/vector52.svg
